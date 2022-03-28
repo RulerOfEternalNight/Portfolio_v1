@@ -1,0 +1,10 @@
+#instructions {
+    position: absolute;
+    color: #666;
+    bottom: 0;
+    padding-bottom: 6px;
+    font-family: sans-serif;
+    width: 100%;
+    text-align: center;
+    pointer-events: none;
+}

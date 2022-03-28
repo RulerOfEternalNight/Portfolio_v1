@@ -1,0 +1,26 @@
+.container {
+    width: 60%;
+    margin: 20px auto;
+    margin-left: 17%;
+    padding: 20px;
+  }
+  .container .title {
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+  }
+  hr {
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 0;
+    width: 100%;
+  }
+  #radarChart {
+    margin-top: 0em;
+  }
